@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: aqua;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+a {
+    text-decoration: none;
+}
+
+#img1 {
+    transition: transform .2s;
+    margin: 16px;
+    height: 400px;
+    height: 650px;
+}
+#head1{
+font-size:40px;
+font-family: 'Texturina', serif;
+}
+#head3{
+font-family: 'Dancing Script', cursive;
+font-size:20px;
+}
